@@ -3,7 +3,7 @@
 <div align="center">
 <br>
 
-![image-20231101105410218](C:\Users\pipizhum\AppData\Roaming\Typora\typora-user-images\image-20231101105410218.png)  
+![image-20231101105410218](./imgs/TSD-CAM.png)  
 </div>
 
 ## Data Preparations
@@ -35,7 +35,6 @@ VOCdevkit/
 </details>
 
 <details>
-
 <summary>
 COCO dataset
 </summary>
